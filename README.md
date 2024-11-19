@@ -1,4 +1,4 @@
-  # Sneaker Products Scraper on Kickavenue Website
+  # Sneaker Products Scraper on Kick Avenue Website
 
 This script uses Python and Selenium to scrape sneaker product data from the [Kickavenue](https://www.kickavenue.com/search/sneakers?sort_by=featured_item_score_desc&keyword=) website. It collects product names, prices, currency, and links for products listed on the page. The results are filtered to include only products priced in Indonesian Rupiah (IDR), sorted by price in ascending order, and exported to an CSV file.
 
